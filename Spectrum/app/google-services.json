@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196193041546",
+    "project_id": "spectrumapp-ba624",
+    "storage_bucket": "spectrumapp-ba624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196193041546:android:8db291eef13bc5952bc173",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196193041546-j2ktk9eueoan2aausckhdtdt8dlfh93m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FLZPLw0QhYEinECi8DQpsayY2Rkz8Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196193041546-j2ktk9eueoan2aausckhdtdt8dlfh93m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
